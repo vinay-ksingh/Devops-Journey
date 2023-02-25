@@ -1,6 +1,6 @@
 ### File Commands
 
-<mark>**ls**</mark>  directory listing
+<mark>**ls**</mark> ► directory listing
 
 <mark>**ls -al**</mark>  formatted listing with hidden files
 
