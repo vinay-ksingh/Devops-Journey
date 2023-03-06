@@ -16,7 +16,7 @@
   
 <mark>**docker kill <container id>**</mark> ► This command kills the container by stopping its execution immediately
   
-<mark>*docker commit <conatainer id> <username/imagename>**</mark> ► To create a new image of an edited container on the local system
+<mark>**docker commit <conatainer id> <username/imagename>**</mark> ► To create a new image of an edited container on the local system
   
 <mark>**docker login**</mark> ► To login to the docker hub repository
   
