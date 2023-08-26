@@ -40,3 +40,7 @@
 
 <mark>**tail -f file**</mark> ► output contents of file as it grows
 
+<mark>**tree -L 1**</mark> ► Dispalay both file and directories
+
+
+
